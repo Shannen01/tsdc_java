@@ -1,11 +1,43 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f62ade11-2f34-499b-bef6-4488bc78b7ee" name="Changes" comment="" />
+    <list default="true" id="f62ade11-2f34-499b-bef6-4488bc78b7ee" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/com/day3/JavaProgram1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/day3/JavaProgram2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/day3/JavaProgram3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/day3/JavaProgram4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/day3/JavaProgram5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/day3/JavaProgram5p1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/day3/JavaProgram6.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/day3/JavaProgram7.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/day3/JavaProgram8.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/day3/JavaProgram9.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/JavaProgram1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/day2/JavaProgram1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/JavaProgram2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/day2/JavaProgram2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/JavaProgram3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/day2/JavaProgram3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/day2/Main.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
   </component>
   <component name="ProjectId" id="2FGnGOVZKfabvliK70cG4AOkEAG" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -14,12 +46,13 @@
     <option name="showLibraryContents" value="true" />
     <option name="showVisibilityIcons" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
   }
-}]]></component>
+}</component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
