@@ -2,21 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f62ade11-2f34-499b-bef6-4488bc78b7ee" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day4/JavaProgram0.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day4/JavaProgram1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day4/JavaProgram2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day4/JavaProgram3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day4/JavaProgram4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day4/JavaProgram5.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day4/JavaProgram6.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day4/JavaProgram7.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day4/JavaProgram8.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day4/JavaProgram9.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/day2/JavaProgram1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/day2/JavaProgram1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/day3/JavaProgram8.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/day3/JavaProgram8.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day4/JavaProgram3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day4/JavaProgram3.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />

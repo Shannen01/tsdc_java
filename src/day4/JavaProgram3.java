@@ -28,5 +28,6 @@ public class JavaProgram3 {
        System.out.println(numbers[2]);
        System.out.println(numbers[3]);
        System.out.println(numbers[4]);
+
    }
 }
