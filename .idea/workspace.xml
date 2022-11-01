@@ -2,21 +2,21 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f62ade11-2f34-499b-bef6-4488bc78b7ee" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/day3/JavaProgram1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/day3/JavaProgram2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/day3/JavaProgram3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/day3/JavaProgram4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/day3/JavaProgram5.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/day3/JavaProgram5p1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/day3/JavaProgram6.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/day3/JavaProgram7.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/day3/JavaProgram8.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/day3/JavaProgram9.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day4/JavaProgram0.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day4/JavaProgram1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day4/JavaProgram2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day4/JavaProgram3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day4/JavaProgram4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day4/JavaProgram5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day4/JavaProgram6.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day4/JavaProgram7.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day4/JavaProgram8.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day4/JavaProgram9.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/JavaProgram1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/day2/JavaProgram1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/JavaProgram2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/day2/JavaProgram2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/JavaProgram3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/day2/JavaProgram3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/day2/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/day2/JavaProgram1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/day2/JavaProgram1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/day3/JavaProgram8.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/day3/JavaProgram8.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -50,6 +50,9 @@
   &quot;keyToString&quot;: {
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
     &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
   }
 }</component>

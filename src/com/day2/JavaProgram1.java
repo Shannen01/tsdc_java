@@ -1,7 +1,7 @@
 package com.day2;
 
 public class JavaProgram1 {
-    public static void main(String args[]){
+    public static void main(String[]args){
         //String
         String name = "Peter";
         System.out.println("The name is " + name);
